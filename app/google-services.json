@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "62802389449",
+    "project_id": "restroinsider-a6373",
+    "storage_bucket": "restroinsider-a6373.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62802389449:android:d09200e2f04dc0345ca018",
+        "android_client_info": {
+          "package_name": "com.example.restroinsider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62802389449-hs57qf8pou4tsl1kj1ag5hrcmkb2nfpa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.restroinsider",
+            "certificate_hash": "f7ab82b3e8d7ef1d52a3c96840e2920970726005"
+          }
+        },
+        {
+          "client_id": "62802389449-6lo9e5d8riecpbbki570n7kjo6akkl14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCayZnli0QInSgILIA-c9-ABPUjB9Ek394"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62802389449-6lo9e5d8riecpbbki570n7kjo6akkl14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
