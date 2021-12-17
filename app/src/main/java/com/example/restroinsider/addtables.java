@@ -2,7 +2,6 @@ package com.example.restroinsider;
 
 
 import android.os.Bundle;
-import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
@@ -23,15 +22,12 @@ private EditText tablenumber;
         setContentView(R.layout.activity_addtables);
         addtable = findViewById(R.id.addtable);
         tablenumber = findViewById(R.id.tablenumber);
-        addtable.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                HashMap<String, Object> m=new HashMap<String, Object>();
-                m.put("Table", tablenumber.getText().toString());
-                FirebaseDatabase.getInstance().getReference().child("tablenumber").push().setValue(m);
+        addtable.setOnClickListener(view -> {
+            HashMap<String, Object> m= new HashMap<>();
+            m.put("Table", tablenumber.getText().toString());
+            FirebaseDatabase.getInstance().getReference().child("menuitem").push().setValue(m);
 
-                Toast.makeText(addtables.this, "New Table Added ! ", Toast.LENGTH_SHORT).show();
-            }
+            Toast.makeText(addtables.this, "New Table Added ! ", Toast.LENGTH_SHORT).show();
         });
 
     }

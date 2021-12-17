@@ -41,7 +41,7 @@
         android:id="@+id/additem"
         android:layout_width="101dp"
         android:layout_height="60dp"
-        android:background="#E53935"
+        android:background="@drawable/buttonstyle"
         android:text="ADD"
         android:textColor="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
