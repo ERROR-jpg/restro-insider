@@ -20,6 +20,14 @@ be implemented in a restaurant to accomplish maximum precision and pace? After r
 about it, we finally concluded, an app solution which will help to improve the communication between 
 the hotel staff, today we call as RESTRO-INSIDER. Paper wastage reduction, pleasant customer experience,
 simple ways of communication between the staff, also motivated us to create this project.
+![image](https://user-images.githubusercontent.com/78738408/146961868-1aee0b79-25a9-4587-afec-6230067091cb.png)
+![image](https://user-images.githubusercontent.com/78738408/146961885-1f200e3d-edab-49d1-a06c-694eff860407.png)
+
+![image](https://user-images.githubusercontent.com/78738408/146961913-6e2c0e0c-1b77-49c8-8646-30ae01bd9a7f.png)
+![image](https://user-images.githubusercontent.com/78738408/146962082-8e939a2d-07f8-45dd-b388-600d8bb400e6.png)
+
+![image](https://user-images.githubusercontent.com/78738408/146961959-87910dfe-4592-441a-a15e-de5c321a3468.png)
+![image](https://user-images.githubusercontent.com/78738408/146961976-af53267f-86e1-4dc5-a870-92e5a7b88cbd.png)
 
 
 WORKING AND FLOW
@@ -37,3 +45,4 @@ it fetches completed an order and displays them. Here a "Delete" button is avail
 database after this Coming to the third button is "Add item". It takes the user to a screen where a person can simply type the 
 new dish and click Add. This will add the new dish in the database and show up while creating a new order finally the third button 
 on the home page is the "Counter" button. takes you through the same process that the "Order Status" button does.
+![image](https://user-images.githubusercontent.com/78738408/146961792-a4108455-2c02-4e2c-bfed-dc7aa7fe8c0a.png)
